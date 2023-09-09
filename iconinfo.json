@@ -1,0 +1,171 @@
+[
+  {
+    "iconType": "brands",
+    "name": "Facebook",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-facebook' />",
+    "html": "<i class='fa-brands fa-facebook fa-xl'></i>",
+    "isPaid": true
+  },
+  {
+    "iconType": "brands",
+    "name": "Discord",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-discord' />",
+    "html": "<i class='fa-brands fa-discord fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "brands",
+    "name": "Google",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-google' />",
+    "html": "<i class='fa-brands fa-google fa-xl'></i>",
+    "isPaid": true
+  },
+  {
+    "iconType": "brands",
+    "name": "Paypal",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-paypal' />",
+    "html": "<i class='fa-brands fa-paypal fa-xl'></i>",
+    "isPaid": true
+  },
+  {
+    "iconType": "brands",
+    "name": "Dropbox",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-dropbox' />",
+    "html": "<i class='fa-brands fa-dropbox fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "brands",
+    "name": "Microsoft",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-microsoft' />",
+    "html": "<i class='fa-brands fa-microsoft fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "brands",
+    "name": "Linux",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-linux' />",
+    "html": "<i class='fa-brands fa-linux fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "brands",
+    "name": "Playstation",
+    "react": "<FontAwesomeIcon icon='fa-brands fa-playstation' />",
+    "html": "<i class='fa-brands fa-playstation fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "House",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-house' />",
+    "html": "<i class='fa-solid fa-house fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "User",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-user' />",
+    "html": "<i class='fa-solid fa-user fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "Heart",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-heart' />",
+    "html": "<i class='fa-solid fa-heart fa-xl'></i>",
+    "isPaid": true
+  },
+  {
+    "iconType": "classic",
+    "name": "Comment",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-comment' />",
+    "html": "<i class='fa-solid fa-comment fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "Smile",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-face-smile' />",
+    "html": "<i class='fa-solid fa-face-smile fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "File",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-file' />",
+    "html": "<i class='fa-solid fa-file fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "Bell",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-bell' />",
+    "html": "<i class='fa-solid fa-bell fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "classic",
+    "name": "User",
+    "react": "<FontAwesomeIcon icon='fa-solid fa-circle-user' />",
+    "html": "<i class='fa-solid fa-circle-user fa-xl'></i>",
+    "isPaid": true
+  },
+
+  {
+    "iconType": "sharp",
+    "name": "House regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-address-book />",
+    "html": "<i class='fa-regular fa-address-book fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "Address book",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-user' />",
+    "html": "<i class='fa-regular fa-user fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "Heart regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-heart' />",
+    "html": "<i class='fa-regular fa-heart fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "Comment regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-comment ' />",
+    "html": "<i class='fa-regular fa-comment  fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "Smile regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-face-smile' />",
+    "html": "<i class='fa-regular fa-face-smile fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "File regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-file' />",
+    "html": "<i class='fa-regular fa-file fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "Bell regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-bell' />",
+    "html": "<i class='fa-regular fa-bell fa-xl'></i>",
+    "isPaid": false
+  },
+  {
+    "iconType": "sharp",
+    "name": "User circle regular",
+    "react": "<FontAwesomeIcon icon='fa-regular fa-circle-user' />",
+    "html": "<i class='fa-regular fa-circle-user fa-xl'></i>",
+    "isPaid": true
+  }
+]
